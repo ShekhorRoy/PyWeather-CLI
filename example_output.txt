@@ -1,0 +1,20 @@
+$ python weather_app.py "Tokyo"
+
+PyWeather
+---------------------------------------------------
+A simple command-line weather viewer.
+---------------------------------------------------
+
+Searching for weather in Tokyo...
+
+==============================================
+Tokyo, JP
+==============================================
+🌡️  Temperature: 25.3°C (Feels like: 26.1°C)
+☁️  Condition:  Clear sky
+💧  Humidity:   60%
+💨  Wind Speed: 3.5 m/s
+⏱️  Pressure:   1012 hPa
+🌅  Sunrise:    05:42:18
+🌇  Sunset:     17:58:45
+==============================================
